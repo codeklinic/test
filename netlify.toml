@@ -1,0 +1,4 @@
+[build]
+base = "codklinic/"
+publish = "codeklinic/build/"
+command = "yarn build"
